@@ -1,0 +1,62 @@
+
+.titulos{
+
+    text-align: center;
+    color:lightgoldenrodyellow;
+
+}
+
+.bio{
+    font-style: oblique;
+    font-size: 20px;
+    text-align: justify;
+    margin: 20px;
+    border-radius: 9px;
+    padding: 14px;
+
+
+
+}
+
+.imagem{
+    border-radius: 20px;
+}
+
+.imagens{
+    border-radius: 20px;
+    object-fit: cover;
+    
+}
+
+.itens{
+    margin-bottom:1em;
+
+}
+.links:hover{
+    color:rgb(16, 139, 196);
+}
+
+.links{
+    color:blue;
+    text-align: center;
+
+}
+
+.estilo-tabela{
+    background-color:white;
+    width:10%;
+    
+    
+    
+}
+
+.temas{
+    background-color:rgb(11, 216, 223)
+    }
+
+.linha{
+    background-color:rgb(117, 214, 201);
+    border: 2px solid;
+    vertical-align:middle
+
+}
